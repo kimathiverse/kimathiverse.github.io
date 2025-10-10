@@ -95,6 +95,6 @@ Right aligned columns
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.jpg)
+![Minion](https://octodex.github.com/images/minion.png)
 
 ## The End
